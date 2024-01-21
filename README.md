@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aashish Dhakal</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center"> A passionate Software Engineer</h3>
+<h4>I am on an exciting journey of discovering the world of software engineering with wide-eyed enthusiasm. From not having written a single line of code before university to winning the Best First Time Hack title at HackHarvard 2023 at Harvard University, I am proud of the projects and experiences I've accumulated, and I am aware that this is just the beginning!</h4>
 
-- 🔭 I’m currently working on **Finding Co-op/Internships**
 
-- 🌱 I’m currently learning **How to be a better Software Engineer, each day**
+- 🔭 I’m currently working on ---> **Finding Software Engineering Co-op/Internships**
 
-- 👯 I’m looking to collaborate on **Meaningful Projects to create Positive Impact**
+- 🌱 I’m currently learning ---> **How to be a better Software Engineer, one step at a time**
 
-- 👨‍💻 All of my projects are available at [https://aadhakal.github.io/MyPortfolio/](https://aadhakal.github.io/MyPortfolio/)
+- 👯 I’m looking to collaborate on ---> **Meaningful Projects to create Positive Impact on people's lives**
 
-- 📫 How to reach me **dhakal.aashish27@gmail.com**
+- 👨‍💻 All of my projects are available at ---> [https://aadhakal.github.io/MyPortfolio/](https://aadhakal.github.io/MyPortfolio/)
 
-- ⚡ Fun fact **I have been Slapped by a Monkey!**
+- 📫 How to reach me ---> **dhakal.aashish27@gmail.com**
+
+- ⚡ Fun fact ---> **I have been Slapped by a Monkey!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
