@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aashish Dhakal</h1>
 <h3 align="center">A passionate individual in Software Engineering, Project & Product Management, AI, and IoT</h3>
-<h4>I'm on an exciting journey exploring diverse fields including software engineering, project management, product management, AI, and IoT, underpinned by a manufacturing minor with a Data Science emphasis. From zero coding knowledge before university to winning the Best First Time Hack at HackHarvard 2023, my journey is filled with significant learning and achievements. Yet, I know this is just the beginning of a long and exciting path ahead.</h4>
+<h4>I'm on an exciting journey exploring diverse fields including software engineering, project management, product management, AI, and IoT, underpinned by a manufacturing minor with a Data Science emphasis. From zero coding knowledge before university to winning the Best First Time Hack at HackHarvard 2023, my journey is filled with significant learning. Yet, I know this is just the beginning of a long and exciting path ahead.</h4>
 
 - 🔭 I’m currently seeking ---> **Software Engineering, Project/Product Management Co-op/Internships**
 - 🌱 I’m currently learning ---> **Advanced topics in Software Engineering, Project Management, and IoT**
