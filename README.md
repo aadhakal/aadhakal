@@ -6,7 +6,7 @@
         <p><strong>Software Engineer</strong> | ML + Robotics + Fullstack Dev</p>
         <p><em>Figuring it out, one bug at a time.</em></p>
         <p style="margin-top: 10px;">
-          🎓 <em>Diploma in Mechanical Engineering (Aug 2018) → CS Graduate with Minors in Math & Manufacturing (May 2025)</em>
+          🎓 <em>Associate Degree in Mechanical Engineering (Aug 2018) → CS Graduate with Minors in Math & Manufacturing (May 2025)</em>
         </p>
       </td>
       <td style="text-align: right;">
