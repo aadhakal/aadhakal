@@ -86,7 +86,7 @@
   <a target="_blank" href="https://www.aashishdhakal.com" style="display: inline-block; margin-left: 10px;">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site?style=for-the-badge&logo=web&logoColor=white&color=black" alt="Portfolio" />
   </a>
-  <a href="https://www.aashishdhakal.com/assets/resume/Dkakal_Aashish_SWE_Online_V.pdf" target="_blank">
+  <a href="https://www.aashishdhakal.com/assets/resume/Aashish_Dhakal_SWE_Online.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View_PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
