@@ -35,7 +35,7 @@
   <li>🧠 <strong><a href="https://github.com/aadhakal/code-review-ai">Code Review AI</a></strong> — an AI-powered code review system that suggests improvements and explains bugs.</li>
   <li>🌡️ <strong><a href="https://github.com/aadhakal/HeatSync-Smart_Thermostat">HeatSync</a></strong> — built a smart thermostat from scratch with Python, sensors, and a web dashboard.</li>
   <li>🤖 <strong><a href="https://github.com/aadhakal/Autonomous-Multi-Vehicle-System">Multi-UAV Coordination</a></strong> — ROS-based system for real-time UAV teamwork, precision landing, and CV integration.</li>
-<li> 🧬 <strong><a href="https://github.com/aadhakal/code-review-ai">Deep Learning Repo</a></strong>A collection of hands-on deep learning implementations from RNNs and attention models to autoencoders</li>
+<li> 🧬 <strong><a href="https://github.com/aadhakal/Deep-Learning">Deep Learning Repo</a></strong>A collection of hands-on deep learning implementations from RNNs and attention models to autoencoders</li>
 </ul>
 
 
