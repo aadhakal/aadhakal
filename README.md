@@ -32,6 +32,7 @@
 
 <h2>🔧 Featured Work</h2>
 <ul>
+  <li>🧠 <strong><a href="https://github.com/mathematicalthinking/encompass">EnCoMPASS</a></strong>EnCoMPASS is a project of the 21st Century Partnership for STEM Education, Mathematical Thinking, and Drexel University.</li>
   <li>🧠 <strong><a href="https://github.com/aadhakal/code-review-ai">Code Review AI</a></strong> — an AI-powered code review system that suggests improvements and explains bugs.</li>
   <li>🌡️ <strong><a href="https://github.com/aadhakal/HeatSync-Smart_Thermostat">HeatSync</a></strong> — built a smart thermostat from scratch with Python, sensors, and a web dashboard.</li>
   <li>🤖 <strong><a href="https://github.com/aadhakal/Autonomous-Multi-Vehicle-System">Multi-UAV Coordination</a></strong> — ROS-based system for real-time UAV teamwork, precision landing, and CV integration.</li>
