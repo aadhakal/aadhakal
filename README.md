@@ -14,9 +14,7 @@
 
 <ul>
   <li>Currently solving LeetCode over coffee for fun and interview prep.</li>
-  <li>Building AI agents, edge robotics systems, backend services, and full-stack products.</li>
-  <li>Experienced across TensorFlow, TypeScript, cloud tools, embedded systems, and production web apps.</li>
-  <li>From low-level sensors to cloud deployments, I enjoy wiring systems end-to-end.</li>
+  <li>Building AI agents, backend services, and full-stack products.</li>
 </ul>
 
 <h2>Featured Work</h2>
